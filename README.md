@@ -1,5 +1,5 @@
 <p align="center" >
-<img src="" alt="Image" title="Image" width=250>
+<img src="https://github.com/furkanhatipoglu/tassk/blob/master/screen-shots/ss.png" alt="Image" title="Image" width=250>
 </p>
 
 # Tassk
